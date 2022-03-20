@@ -1,6 +1,6 @@
 {
   "name": "mbti-matrix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple MBTI compatibility matrix helper.",
   "main": "dist/index.js",
   "repository": "https://github.com/mesili/mbti-matrix",
