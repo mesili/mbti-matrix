@@ -25,4 +25,4 @@ I used what seems to be the most commonly used one.
 If you want to add another one, feel free to create a PR.  
  
 ### Scoring
-The score goes from 0 (the lowest / worst) to 4 (the highest / best).  
+The score goes from 0 (the lowest / worst) to 3 (the highest / best).  
