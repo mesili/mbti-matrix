@@ -2,9 +2,9 @@
   "name": "mbti-matrix",
   "version": "0.0.1",
   "description": "A simple MBTI compatibility matrix helper.",
-  "main": "src/mbtiMatrix.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/mesili/mbti-matrix",
-  "author": "Sebastien Mesili",
+  "author": "Sebastien Mesili <sebanpm@mesili.fr (https://sebastien.mesili.fr)",
   "license": "MIT",
   "private": false,
   "devDependencies": {
